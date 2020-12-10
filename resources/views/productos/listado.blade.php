@@ -1,4 +1,3 @@
-@extends('layouts.principal')
 @extends('layouts.applistado')
 @section('tituloPagina', 'Listado de Productos')
 @section('tituloGestion', 'Productos')

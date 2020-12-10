@@ -35,6 +35,6 @@ class ProductoController extends Controller
 
         $producto->save();
 
-        return redirect()->route('productos.crear')->with('creado','Se creo el producto '.$producto->nombre);
+        return redirect()->route('productos.crear')->with('creado','Se creo el producto '. $producto->nombre);
     }
 }

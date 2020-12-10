@@ -98,23 +98,6 @@
         </div>
         <!-- container -->
     </section>
-
-    <!--====== CONTACT PART ENDS ======-->
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <div class="container ">
-        <div class="row justify-content-center ">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.1375495044176!2d-58.56182773446422!3d-34.70171045412123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc6045e41339d%3A0x15d6e34d6d6f96c3!2sAnatole%20France%204388%2C%20B1754HJH%20San%20Justo%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1606679937912!5m2!1ses!2sar
-                            " width="1000 " height="457 " frameborder="0 " style="border:0; " allowfullscreen=" " aria-hidden="false " tabindex="0 "></iframe>
-        </div>
-    </div>
-    <!--====== FOOTER PART ENDS ======-->
-
-    <!--====== BACK TO TOP PART START ======-->
-
     <a href="# " class="back-to-top "><i class="lni-chevron-up "></i></a>
 </body>
     </html>

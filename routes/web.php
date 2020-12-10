@@ -18,26 +18,10 @@ Route::get('/', function () {
     return view('index');
 });
 
+
 Route::resource("productos", ProductoController::class);
 
 
-
-
-
-
-
-
-
-
-
-
-Route::middleware(['auth', 'verified'])->group(function () {
-    Route::view('home', 'home')->name('home');
-});
-
-Route::get("saludo", function(){
-    return "Hola visitante";
-})->middleware(['auth']);
 
 
 

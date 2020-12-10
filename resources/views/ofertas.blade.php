@@ -91,7 +91,7 @@
                                     <div class="col-md-4">
                                         <div class="single-product-items">
                                             <div class="product-item-image">
-                                                <a href="#"><img src="/images/pastelera.png" alt="Product"></a>
+                                                <a href="#"><img src="images/pastelera.png" alt="Product"></a>
                                                 <div class="product-discount-tag">
                                                     <p>10%</p>
                                                 </div>
@@ -124,7 +124,7 @@
                                     <div class="col-md-4">
                                         <div class="single-product-items">
                                             <div class="product-item-image">
-                                                <a href="#"><img src="/images/alfajorm.png" alt="Product"></a>
+                                                <a href="#"><img src="images/alfajorm.png" alt="Product"></a>
                                                 <div class="product-discount-tag">
                                                     <p>-10%</p>
                                                 </div>
@@ -146,7 +146,7 @@
                                     <div class="col-md-4">
                                         <div class="single-product-items">
                                             <div class="product-item-image">
-                                                <a href="#"><img src="/images/choco.png" alt="Product"></a>
+                                                <a href="#"><img src="images/choco.png" alt="Product"></a>
                                                 <div class="product-discount-tag">
                                                     <p>-10%</p>
                                                 </div>
@@ -168,7 +168,7 @@
                                     <div class="col-md-4">
                                         <div class="single-product-items">
                                             <div class="product-item-image">
-                                                <a href="#"><img src="/images/color.png" alt="Product"></a>
+                                                <a href="#"><img src="images/color.png" alt="Product"></a>
                                                 <div class="product-discount-tag">
                                                     <p>-10%</p>
                                                 </div>
@@ -200,7 +200,7 @@
                                     <div class="col-md-4">
                                         <div class="single-product-items">
                                             <div class="product-item-image">
-                                                <a href="#"><img src="/images/ricota.png" alt="Product"></a>
+                                                <a href="#"><img src="images/ricota.png" alt="Product"></a>
                                                 <div class="product-discount-tag">
                                                     <p>-10%</p>
                                                 </div>
@@ -222,13 +222,13 @@
                                     <div class="col-md-4">
                                         <div class="single-product-items">
                                             <div class="product-item-image">
-                                                <a href="#"><img src="/images/pastafrola.png" alt="Product"></a>
+                                                <a href="#"><img src="images/pastafrola.png" alt="Product"></a>
                                                 <div class="product-discount-tag">
                                                     <p>-10%</p>
                                                 </div>
                                             </div>
                                             <div class="product-item-content text-center mt-30">
-                                                <h5 class="product-title"><a href="#">Pastadrolas <br>16 cm diámetro</a></h5>
+                                                <h5 class="product-title"><a href="#">Pastafrolas <br>16 cm diámetro</a></h5>
                                                 <ul class="rating">
                                                     <li><i class="lni-star-filled"></i></li>
                                                     <li><i class="lni-star-filled"></i></li>

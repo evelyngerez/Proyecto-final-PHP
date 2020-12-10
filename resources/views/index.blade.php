@@ -18,8 +18,8 @@
                             <div class="col-lg-8 col-md-7 ">
                                 <div class="slider-product-content ">
                                     <h1 class="slider-title mb-10 " data-animation="fadeInUp " data-delay="0.3s "><span>Pan dulce</span></h1>
-                                    <p class="mb-25 " data-animation="fadeInUp " data-delay="0.9s "> Sabores a eleccion</p>
-                                    <a class="main-btn " href="#product " data-animation="fadeInUp " data-delay="1.5s ">Ver Mas <i class="lni-chevron-right "></i></a>
+                                    <p class="mb-25 " data-animation="fadeInUp " data-delay="0.9s "> Sabores a elección</p>
+                                    <a class="main-btn " href="productos" data-animation="fadeInUp " data-delay="1.5s ">Ver Más <i class="lni-chevron-right "></i></a>
                                 </div>
                                 <!-- slider product content -->
                             </div>
@@ -46,7 +46,7 @@
                                 <div class="slider-product-content ">
                                     <h1 class="slider-title mb-10 " data-animation="fadeInUp " data-delay="0.3s "><span> Budines</span> <span></span></h1>
                                     <p class="mb-25 " data-animation="fadeInUp " data-delay="0.9s ">De vainilla o limón <br> 3 tamaños a elección</p>
-                                    <a class="main-btn " href="#product " data-animation="fadeInUp " data-delay="1.5s ">Ver Mas <i class="lni-chevron-right "></i></a>
+                                    <a class="main-btn " href="productos" data-animation="fadeInUp " data-delay="1.5s ">Ver Más <i class="lni-chevron-right "></i></a>
                                 </div>
                                 <!-- slider product content -->
                             </div>
@@ -73,7 +73,7 @@
                                 <div class="slider-product-content ">
                                     <h1 class="slider-title mb-10 " data-animation="fadeInUp " data-delay="0.3s "><span>Tarta de Ricota</span></h1>
                                     <p class="mb-25 " data-animation="fadeInUp " data-delay="0.9s ">Con o sin dulce de leche <br> El tamaño que elijas</p>
-      
+                                    <a class="main-btn " href="productos" data-animation="fadeInUp " data-delay="1.5s ">Ver Más <i class="lni-chevron-right "></i></a>
                                 </div>
                                 <!-- slider product content -->
                             </div>
@@ -98,6 +98,3 @@
         </div>
         <!-- container fluid -->
     </section>
-</body>
-
-</html>

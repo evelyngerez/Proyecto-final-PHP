@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@extends('layouts.principal')
+
 @section('container')
 <div class="row">
 	<div class="col-md-6 offset-md-3">
@@ -7,7 +7,7 @@
 			<div class="card-header  text-white bg-primary mb-3"> Nuevo Producto</div>
 			<div class="card-body">
 				<!--INDICAR ACTION-->
-				<form method="POST" action=" {{ route('productos.store') }}">
+				<form method="POST" action=" {{ route('productos.') }}">
 					@csrf
 					<div class="form-group">
 						<label for="nombre">Nombre</label>

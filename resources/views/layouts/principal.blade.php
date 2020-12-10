@@ -1,9 +1,8 @@
-
-<!doctype html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -12,14 +11,14 @@
 
 
     <!-- Scripts -->
-    <script src="{{ asset('js/app.js') }}" defer></script>
+ 
     <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{asset('css/animate.css')}}">
     <link rel="stylesheet" href="{{asset('css/magnific-popup.css')}}">
     <link rel="stylesheet" href="{{asset('css/slick.css')}}">
     <link rel="stylesheet" href="{{asset('css/LineIcons.css')}}">
     <link rel="stylesheet" href="{{asset('css/default.css')}}">
-    <link rel="stylesheet" href="{{asset('css/style.css')}}"
+    <link rel="stylesheet" href="{{asset('css/style.css')}}">
     <link rel="stylesheet" href="{{asset('css/responsive.css')}}">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
@@ -34,8 +33,8 @@
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="./css/app.css">
-    <script src="./css/app.js"></script>
+
+
 </head>
 
 <div class="preloader">
@@ -51,7 +50,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg">
-                        <a class="navbar-brand" href="index">
+                        <a class="navbar-brand" href="{{('/')}}">
                             <img class="logo" src="/images/logo.png" alt="Logo" width="100px" height="100px">
                             <h1 class="dulce">Dulce Violeta</h1>
                         </a>
@@ -65,20 +64,20 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul id="nav" class="navbar-nav ml-auto">
                                 <li class="nav-item active">
-                                    <a data-scroll-nav="0" href="/">Inicio</a>
+                                    <a data-scroll-nav="0" href="{{('index')}}'">Inicio</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a data-scroll-nav="0" href="productos">Productos</a>
+                                    <a data-scroll-nav="0" href="{{('productos')}}">Productos</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a data-scroll-nav="0" href="ofertas">Ofertas</a>
+                                    <a data-scroll-nav="0" href="{{('ofertas')}}">Ofertas</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a data-scroll-nav="0" href="sobrenosotros">Sobre Nosotros</a>
+                                    <a data-scroll-nav="0" href="{{('sobrenosotros')}}">Sobre Nosotros</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a data-scroll-nav="0" href="danostuopinion">Dejanos tu opinión</a>
+                                    <a data-scroll-nav="0" href="{{('danostuopinion')}}">Dejanos tu opinión</a>
                                 </li>
                             </ul>
                             <!-- navbar nav -->
